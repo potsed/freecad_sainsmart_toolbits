@@ -61,11 +61,11 @@ $RECYCLE.BIN/
 .history/
 
 # -----------------------------------------------------------------------------
-# Archives / temp (uncomment if you do not want to track shipped zips)
+# Archives (extracted library is tracked; do not commit bundles)
 # -----------------------------------------------------------------------------
-# *.zip
-# *.7z
-# *.rar
+*.zip
+*.7z
+*.rar
 
 # -----------------------------------------------------------------------------
 # Logs & misc
