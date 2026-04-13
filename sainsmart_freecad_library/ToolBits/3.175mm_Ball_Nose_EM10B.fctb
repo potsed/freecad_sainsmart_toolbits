@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "id": "3.175mm_Ball_Nose_EM10B",
+  "name": "3.175mm Ball Nose [EM10B]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "18.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm",
+    "Radius": "1.587 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM10B",
+    "Description": "Genmitsu ball nose [EM10B], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-sn05a-5pcs-cnc-router-bits-end-mill-set-for-steel-and-iron",
+    "SourceGuid": "9ab8153d-89f8-49dc-9b33-be2b1a27f7b9",
+    "SourceType": "ball end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

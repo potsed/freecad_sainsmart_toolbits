@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "2.000mm_Flat_End_MC50A_2",
+  "name": "2.000mm Flat End [MC50A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "2.000 mm",
+    "CuttingEdgeHeight": "12.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0278 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC50A",
+    "Description": "Genmitsu flat end straight [MC50A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc50a-1-8-shank-tungsten-carbide-end-mill-router-bits-50-pcs",
+    "SourceGuid": "99114b5e-3de5-474d-accd-9793a6bcda2b",
+    "SourceType": "flat end mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

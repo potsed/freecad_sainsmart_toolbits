@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.350mm_Flat_End_SS05A_3",
+  "name": "6.350mm Flat End [SS05A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "25.400 mm",
+    "Length": "76.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SS05A",
+    "Description": "Genmitsu flat end [SS05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits",
+    "SourceGuid": "3919ca0b-2c12-4149-b114-b933df574ecc",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

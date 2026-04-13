@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "2.000mm_Flat_End_FN10A_4",
+  "name": "2.000mm Flat End [FN10A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "2.000 mm",
+    "CuttingEdgeHeight": "22.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0500 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "FN10A",
+    "Description": "Genmitsu flat end [FN10A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-single-flute-spiral-downcut-cutter-3-pack-1-4-shank-sd03a",
+    "SourceGuid": "45461e1a-3e34-453a-9c86-39637a552d6c",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "90deg_V-Bit_0.200mm_Tip_WC04A",
+  "name": "90deg V-Bit 0.200mm Tip [WC04A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "13.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0289 mm",
+    "CuttingEdgeAngle": "90.000 °",
+    "TipDiameter": "0.200 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "WC04A",
+    "Description": "Genmitsu V 90° groove [WC04A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-wc04a-4pcs-cnc-wood-carving-router-bits-set-1-4-shank-15-detail-carving-liner-20-profile-bit-60-90-v-groove",
+    "SourceGuid": "cd076ef9-b241-4a99-aa57-9e77b897e711",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 90.0
+  }
+}

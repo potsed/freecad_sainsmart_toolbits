@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "2.000mm_Flat_End_MC50A",
+  "name": "2.000mm Flat End [MC50A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "2.000 mm",
+    "CuttingEdgeHeight": "10.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 8,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0069 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC50A",
+    "Description": "Genmitsu flat end corncob [MC50A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc50a-1-8-shank-tungsten-carbide-end-mill-router-bits-50-pcs",
+    "SourceGuid": "9bfe9d55-d04c-43c4-a19c-a1b2d1215ae1",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.350mm_Flat_End_SS05A_2",
+  "name": "6.350mm Flat End [SS05A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "25.400 mm",
+    "Length": "76.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.1111 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SS05A",
+    "Description": "Genmitsu o flute [SS05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits",
+    "SourceGuid": "814287d5-c98c-426c-ab32-ab5bcfc68889",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

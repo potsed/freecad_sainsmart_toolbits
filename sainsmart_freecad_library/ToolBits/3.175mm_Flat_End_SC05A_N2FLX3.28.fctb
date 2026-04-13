@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "3.175mm_Flat_End_SC05A_N2FLX3.28",
+  "name": "3.175mm Flat End [SC05A (N2FLX3.28)]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "28.000 mm",
+    "Length": "60.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0472 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SC05A (N2FLX3.28)",
+    "Description": "Genmitsu flat end compression [SC05A (N2FLX3.28)], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-2-flute-compression-sprial-bits-up-down-cut-set",
+    "SourceGuid": "fc6898a5-35e3-4378-a7e3-1c67d68ce696",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

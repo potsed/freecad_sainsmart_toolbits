@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "60deg_V-Bit_0.100mm_Tip_TR10B",
+  "name": "60deg V-Bit 0.100mm Tip [TR10B]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "2.600 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 3,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0148 mm",
+    "CuttingEdgeAngle": "60.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "TR10B",
+    "Description": "Genmitsu V 60° engraving triangular [TR10B]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits",
+    "SourceGuid": "6e698dc4-a2fe-427b-8e28-701a1352beed",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 60.0
+  }
+}

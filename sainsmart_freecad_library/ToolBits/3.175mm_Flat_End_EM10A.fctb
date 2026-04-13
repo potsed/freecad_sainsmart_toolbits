@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "3.175mm_Flat_End_EM10A",
+  "name": "3.175mm Flat End [EM10A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "12.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.1111 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM10A",
+    "Description": "Genmitsu flat end [EM10A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-cnc-router-bits-10-pcs-micro-diameter-cutting-set",
+    "SourceGuid": "3bec2d4e-3437-4b13-96db-55f27a61eee0",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

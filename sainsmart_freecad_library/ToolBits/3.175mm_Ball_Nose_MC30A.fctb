@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "id": "3.175mm_Ball_Nose_MC30A",
+  "name": "3.175mm Ball Nose [MC30A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "17.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm",
+    "Radius": "1.587 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC30A",
+    "Description": "Genmitsu ball nose [MC30A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc30a-1-8-shank-carbide-milling-cutter-bit-set-30-pcs",
+    "SourceGuid": "8f14c115-775c-42ea-95b4-6a948008ae7d",
+    "SourceType": "ball end mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

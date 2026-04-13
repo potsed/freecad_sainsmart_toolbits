@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "90deg_V-Bit_VG03A",
+  "name": "90deg V-Bit [VG03A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "10.000 mm",
+    "CuttingEdgeHeight": "12.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.000 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0289 mm",
+    "CuttingEdgeAngle": "90.000 °",
+    "TipDiameter": "0.000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VG03A",
+    "Description": "Genmitsu V 90° groove [VG03A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits-ball-nose",
+    "SourceGuid": "c32ab5bd-0c69-499a-846e-338997e42c77",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 90.0
+  }
+}

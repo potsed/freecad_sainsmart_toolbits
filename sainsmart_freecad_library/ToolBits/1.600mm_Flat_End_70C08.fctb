@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "1.600mm_Flat_End_70C08",
+  "name": "1.600mm Flat End [70C08]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "1.600 mm",
+    "CuttingEdgeHeight": "8.000 mm",
+    "Length": "37.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0361 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "70C08",
+    "Description": "Genmitsu flat end corncob [70C08], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits",
+    "SourceGuid": "9c2299c4-d7b5-47d0-a655-562f2b3e4563",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

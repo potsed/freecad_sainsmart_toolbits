@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "id": "1.000mm_Drill_PD30A",
+  "name": "1.000mm Drill [PD30A]",
+  "shape": "drill.fcstd",
+  "shape-type": "Drill",
+  "parameter": {
+    "Diameter": "1.000 mm",
+    "CuttingEdgeHeight": "9.500 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0039 mm",
+    "TipAngle": "118.000 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "PD30A",
+    "Description": "Genmitsu drill [PD30A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-30pcs-pcb-drill-bits-set-0-1mm-3-0mm-1-8-shank-pd30a",
+    "SourceGuid": "f66e9eab-3bec-4328-b743-7c1746dc5606",
+    "SourceType": "drill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "DrillPointAngleSource": "Fusion geometry.SIG"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "60deg_V-Bit_0.200mm_Tip_VG05B_NLJ3.6002",
+  "name": "60deg V-Bit 0.200mm Tip [VG05B (NLJ3.6002)]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "9.000 mm",
+    "Length": "40.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0183 mm",
+    "CuttingEdgeAngle": "60.000 °",
+    "TipDiameter": "0.200 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VG05B (NLJ3.6002)",
+    "Description": "Genmitsu V 60° groove [VG05B (NLJ3.6002)], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-wc04a-4pcs-cnc-wood-carving-router-bits-set-1-4-shank-15-detail-carving-liner-20-profile-bit-60-90-v-groove",
+    "SourceGuid": "ff8ae7d7-e474-4317-9c8b-cbf55bbe609d",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 60.0
+  }
+}

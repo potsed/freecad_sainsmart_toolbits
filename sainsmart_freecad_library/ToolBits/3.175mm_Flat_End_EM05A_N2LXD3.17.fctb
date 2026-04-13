@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "3.175mm_Flat_End_EM05A_N2LXD3.17",
+  "name": "3.175mm Flat End [EM05A (N2LXD3.17)]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "17.000 mm",
+    "Length": "45.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM05A (N2LXD3.17)",
+    "Description": "Genmitsu fishtail downcut [EM05A (N2LXD3.17)], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-3pcs-3-flute-cnc-spoilboard-surfacing-router-bits-1-4-shank-1-cutting-diameter-rb03a",
+    "SourceGuid": "bd2a1a27-e7a8-4e90-ae0e-37cee29711bd",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

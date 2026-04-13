@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.350mm_Flat_End_EM05A",
+  "name": "6.350mm Flat End [EM05A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "15.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 4,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0278 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM05A",
+    "Description": "Genmitsu flat end roughing [EM05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-3pcs-3-flute-cnc-spoilboard-surfacing-router-bits-1-4-shank-1-cutting-diameter-rb03a",
+    "SourceGuid": "9fc9d1bb-8803-47f5-b6bf-bb9ed503547c",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

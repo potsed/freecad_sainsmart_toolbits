@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "30deg_V-Bit_0.200mm_Tip_EM10A",
+  "name": "30deg V-Bit 0.200mm Tip [EM10A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "5.500 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0222 mm",
+    "CuttingEdgeAngle": "30.000 °",
+    "TipDiameter": "0.200 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM10A",
+    "Description": "Genmitsu V 30° engraving [EM10A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-cnc-router-bits-10-pcs-micro-diameter-cutting-set",
+    "SourceGuid": "90be65de-8e03-4f9b-abc4-68265abca264",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 30.0
+  }
+}

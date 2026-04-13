@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "60deg_V-Bit_0.100mm_Tip_EM10B",
+  "name": "60deg V-Bit 0.100mm Tip [EM10B]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "5.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0200 mm",
+    "CuttingEdgeAngle": "60.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM10B",
+    "Description": "Genmitsu V 60° groove [EM10B], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-sn05a-5pcs-cnc-router-bits-end-mill-set-for-steel-and-iron",
+    "SourceGuid": "3851bb2b-c1fa-4e66-b15d-4d5a2adc2c4e",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 60.0
+  }
+}

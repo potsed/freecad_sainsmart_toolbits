@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "id": "1.500mm_Tapered_Ball_6.500deg_TB04B",
+  "name": "1.500mm Tapered Ball 6.500deg [TB04B]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "1.500 mm",
+    "CuttingEdgeHeight": "20.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0361 mm",
+    "BallDiameter": "1.500 mm",
+    "TipRadius": "0.750 mm",
+    "TaperAngle": "6.500 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "TB04B",
+    "Description": "Genmitsu ball nose tapered [TB04B], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-2-flute-tapered-ball-nose-spiral-end-mill-4-pack-set-1-4-shank-tb04b",
+    "SourceGuid": "1add3452-aec7-4239-8376-15cc58b4a4b1",
+    "SourceType": "tapered mill:tapered_ball",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": false,
+    "OriginalUnit": "millimeters",
+    "ApproximationNote": "Uses ballend.fcstd because tapered-ball is not in the stock ToolShapes provided; taper metadata preserved."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "25.400mm_Flat_End_RB03A",
+  "name": "25.400mm Flat End [RB03A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "25.400 mm",
+    "CuttingEdgeHeight": "5.000 mm",
+    "Length": "40.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 3,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0278 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "RB03A",
+    "Description": "Genmitsu flat end surfacing [RB03A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-3pcs-3-flute-cnc-spoilboard-surfacing-router-bits-1-4-shank-1-cutting-diameter-rb03a",
+    "SourceGuid": "611cc57b-4a4b-4141-8d43-95898c2289b3",
+    "SourceType": "flat end mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

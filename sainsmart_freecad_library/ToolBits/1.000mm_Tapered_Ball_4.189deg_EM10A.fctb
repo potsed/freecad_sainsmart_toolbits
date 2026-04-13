@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "id": "1.000mm_Tapered_Ball_4.189deg_EM10A",
+  "name": "1.000mm Tapered Ball 4.189deg [EM10A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "1.000 mm",
+    "CuttingEdgeHeight": "15.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0361 mm",
+    "BallDiameter": "1.000 mm",
+    "TipRadius": "0.500 mm",
+    "TaperAngle": "4.189 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM10A",
+    "Description": "Genmitsu ball nose tapered [EM10A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-cnc-router-bits-10-pcs-micro-diameter-cutting-set",
+    "SourceGuid": "f6e047e2-ea39-492b-8ce6-e2055b2a76ae",
+    "SourceType": "tapered mill:tapered_ball",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": false,
+    "OriginalUnit": "millimeters",
+    "ApproximationNote": "Uses ballend.fcstd because tapered-ball is not in the stock ToolShapes provided; taper metadata preserved."
+  }
+}

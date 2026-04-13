@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "id": "1.000mm_Tapered_Ball_6.250deg_EM05A",
+  "name": "1.000mm Tapered Ball 6.250deg [EM05A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "1.000 mm",
+    "CuttingEdgeHeight": "20.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0333 mm",
+    "BallDiameter": "1.000 mm",
+    "TipRadius": "0.500 mm",
+    "TaperAngle": "6.250 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM05A",
+    "Description": "Genmitsu ball nose tapered [EM05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-3pcs-3-flute-cnc-spoilboard-surfacing-router-bits-1-4-shank-1-cutting-diameter-rb03a",
+    "SourceGuid": "8b31aa57-ceb6-4444-9135-a327452a3cb6",
+    "SourceType": "tapered mill:tapered_ball",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": false,
+    "OriginalUnit": "millimeters",
+    "ApproximationNote": "Uses ballend.fcstd because tapered-ball is not in the stock ToolShapes provided; taper metadata preserved."
+  }
+}

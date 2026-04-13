@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "3.175mm_Flat_End_SD06A_N2LXD3.22",
+  "name": "3.175mm Flat End [SD06A (N2LXD3.22)]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "22.000 mm",
+    "Length": "55.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SD06A (N2LXD3.22)",
+    "Description": "Genmitsu flat end downcut [SD06A (N2LXD3.22)], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-spiral-down-cut-2-flute-carbide-milling-cutter-set",
+    "SourceGuid": "5c6ea95b-86ad-4884-88e3-72734b875ba1",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

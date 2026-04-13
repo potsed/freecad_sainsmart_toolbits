@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "20deg_V-Bit_0.100mm_Tip_70V20",
+  "name": "20deg V-Bit 0.100mm Tip [70V20]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "8.750 mm",
+    "Length": "27.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0206 mm",
+    "CuttingEdgeAngle": "20.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "70V20",
+    "Description": "Genmitsu V 20° engraving [70V20], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-engraving-bits-20-degree-0-1mm",
+    "SourceGuid": "e8777842-4d51-4678-9c6f-a96b96ad8840",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 20.0
+  }
+}

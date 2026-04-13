@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "20deg_V-Bit_0.200mm_Tip_EM03A",
+  "name": "20deg V-Bit 0.200mm Tip [EM03A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "8.500 mm",
+    "Length": "27.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0206 mm",
+    "CuttingEdgeAngle": "20.000 °",
+    "TipDiameter": "0.200 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM03A",
+    "Description": "Genmitsu V 20° engraving [EM03A], Chromatic",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/chromatic-1-8-shank-strong-durable-for-metal-carving-3pcs-milling-bits",
+    "SourceGuid": "26c3874d-00f1-4cac-9a9e-01d6a83de5de",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 20.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "id": "3.175mm_Ball_Nose_70SB17",
+  "name": "3.175mm Ball Nose [70SB17]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "17.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm",
+    "Radius": "1.587 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "70SB17",
+    "Description": "Genmitsu ball nose [70SB17], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits-ball-nose",
+    "SourceGuid": "8b662d6d-15f5-412a-9549-8f6dfe237de1",
+    "SourceType": "ball end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "60deg_V-Bit_EM05A",
+  "name": "60deg V-Bit [EM05A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "9.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0361 mm",
+    "CuttingEdgeAngle": "60.000 °",
+    "TipDiameter": "0.000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM05A",
+    "Description": "Genmitsu V 60° groove [EM05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-3pcs-3-flute-cnc-spoilboard-surfacing-router-bits-1-4-shank-1-cutting-diameter-rb03a",
+    "SourceGuid": "6b17db82-5546-42f2-aee4-553afc833924",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 60.0
+  }
+}

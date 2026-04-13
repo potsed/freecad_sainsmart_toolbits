@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.350mm_Flat_End_CS05A_5",
+  "name": "6.350mm Flat End [CS05A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "52.000 mm",
+    "Length": "80.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 8,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0139 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "CS05A",
+    "Description": "Genmitsu flat end corncob [CS05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/sainsmart-genmitsu-nano-blue-coat-cnc-router-bits-flat-nose-1-flute",
+    "SourceGuid": "53afd833-9348-4726-bd68-c5b5c2925494",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.350mm_Flat_End_SU05A",
+  "name": "6.350mm Flat End [SU05A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "12.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.1111 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SU05A",
+    "Description": "Genmitsu flat end [SU05A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-single-flute-spiral-upcut-cutter-5-packset-1-4-shank-su05a",
+    "SourceGuid": "5a67eba8-ed4b-4343-98c3-369716b2763c",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

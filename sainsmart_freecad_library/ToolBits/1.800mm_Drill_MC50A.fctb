@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "id": "1.800mm_Drill_MC50A",
+  "name": "1.800mm Drill [MC50A]",
+  "shape": "drill.fcstd",
+  "shape-type": "Drill",
+  "parameter": {
+    "Diameter": "1.800 mm",
+    "CuttingEdgeHeight": "11.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0111 mm",
+    "TipAngle": "118.000 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC50A",
+    "Description": "Genmitsu drill [MC50A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc50a-1-8-shank-tungsten-carbide-end-mill-router-bits-50-pcs",
+    "SourceGuid": "40b4be3d-3e08-4442-96d4-bdc015ccf219",
+    "SourceType": "drill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "DrillPointAngleSource": "Fusion geometry.SIG"
+  }
+}

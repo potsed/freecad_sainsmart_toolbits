@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "1.580mm_Flat_End_SR03A",
+  "name": "1.580mm Flat End [SR03A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "1.580 mm",
+    "CuttingEdgeHeight": "8.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0389 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SR03A",
+    "Description": "Genmitsu flat end straight [SR03A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-sr03a-1-4-shank-straight-plunge-trimming-cutter-double-flute-straight-bits-3pcs",
+    "SourceGuid": "eb2eb03d-d992-4582-918d-2ddb10725769",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

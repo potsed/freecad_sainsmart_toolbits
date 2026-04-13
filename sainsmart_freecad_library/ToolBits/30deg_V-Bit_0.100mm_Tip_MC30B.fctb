@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "30deg_V-Bit_0.100mm_Tip_MC30B",
+  "name": "30deg V-Bit 0.100mm Tip [MC30B]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "5.750 mm",
+    "Length": "27.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0206 mm",
+    "CuttingEdgeAngle": "30.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC30B",
+    "Description": "Genmitsu V 30° engraving [MC30B]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc30b-1-8-shank-carbide-milling-cutter-bits-v-groove-engraving-bits-30-pcs",
+    "SourceGuid": "5d04c3c4-919c-4a1b-8d12-15ae114ba34d",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 30.0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "90deg_V-Bit_VR06A",
+  "name": "90deg V-Bit [VR06A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "6.350 mm",
+    "CuttingEdgeHeight": "6.350 mm",
+    "Length": "44.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm",
+    "CuttingEdgeAngle": "90.000 °",
+    "TipDiameter": "0.000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VR06A",
+    "Description": "Genmitsu V 90° groove [VR06A]",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-round-nose-v-groove-router-bit-set-vr06a",
+    "SourceGuid": "8c5a4b29-2538-44a5-aa9c-2799c42bb68d",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 90.0
+  }
+}

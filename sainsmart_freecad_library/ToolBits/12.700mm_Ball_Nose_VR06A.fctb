@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "id": "12.700mm_Ball_Nose_VR06A",
+  "name": "12.700mm Ball Nose [VR06A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "12.700 mm",
+    "CuttingEdgeHeight": "20.000 mm",
+    "Length": "52.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0556 mm",
+    "Radius": "6.350 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VR06A",
+    "Description": "Genmitsu ball nose groove [VR06A]",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-round-nose-v-groove-router-bit-set-vr06a",
+    "SourceGuid": "c14eeaa3-6928-429e-9eec-2183687a0077",
+    "SourceType": "ball end mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

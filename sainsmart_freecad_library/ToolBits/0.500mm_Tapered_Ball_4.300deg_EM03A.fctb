@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "id": "0.500mm_Tapered_Ball_4.300deg_EM03A",
+  "name": "0.500mm Tapered Ball 4.300deg [EM03A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "0.500 mm",
+    "CuttingEdgeHeight": "15.000 mm",
+    "Length": "40.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0208 mm",
+    "BallDiameter": "0.500 mm",
+    "TipRadius": "0.250 mm",
+    "TaperAngle": "4.300 °"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "EM03A",
+    "Description": "Genmitsu ball nose tapered [EM03A], Chromatic",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/chromatic-1-8-shank-strong-durable-for-metal-carving-3pcs-milling-bits",
+    "SourceGuid": "854287d5-cec1-426c-b032-af5b1fc6898a",
+    "SourceType": "tapered mill:tapered_ball",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": false,
+    "OriginalUnit": "millimeters",
+    "ApproximationNote": "Uses ballend.fcstd because tapered-ball is not in the stock ToolShapes provided; taper metadata preserved."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "30deg_V-Bit_0.100mm_Tip_VE10A",
+  "name": "30deg V-Bit 0.100mm Tip [VE10A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "17.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0194 mm",
+    "CuttingEdgeAngle": "30.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VE10A",
+    "Description": "Genmitsu V 30° groove [VE10A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-sn05a-5pcs-cnc-router-bits-end-mill-set-for-steel-and-iron",
+    "SourceGuid": "cda3b54e-b2eb-403d-b992-582718d2ddb1",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 30.0
+  }
+}

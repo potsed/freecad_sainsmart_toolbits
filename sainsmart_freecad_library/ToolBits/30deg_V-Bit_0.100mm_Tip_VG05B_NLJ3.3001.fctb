@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "30deg_V-Bit_0.100mm_Tip_VG05B_NLJ3.3001",
+  "name": "30deg V-Bit 0.100mm Tip [VG05B (NLJ3.3001)]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "3.175 mm",
+    "CuttingEdgeHeight": "8.000 mm",
+    "Length": "40.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 1,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0206 mm",
+    "CuttingEdgeAngle": "30.000 °",
+    "TipDiameter": "0.100 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VG05B (NLJ3.3001)",
+    "Description": "Genmitsu V 30° groove [VG05B (NLJ3.3001)], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-wc04a-4pcs-cnc-wood-carving-router-bits-set-1-4-shank-15-detail-carving-liner-20-profile-bit-60-90-v-groove",
+    "SourceGuid": "948008ae-7d7e-44b4-95b6-c8bdbf59bce6",
+    "SourceType": "chamfer mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 30.0
+  }
+}

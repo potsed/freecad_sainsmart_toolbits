@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "id": "60deg_V-Bit_VG05A",
+  "name": "60deg V-Bit [VG05A]",
+  "shape": "v-bit.fcstd",
+  "shape-type": "VBit",
+  "parameter": {
+    "Diameter": "16.000 mm",
+    "CuttingEdgeHeight": "13.856 mm",
+    "Length": "49.000 mm",
+    "ShankDiameter": "6.000 mm",
+    "Flutes": 2,
+    "Material": "HSS",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0456 mm",
+    "CuttingEdgeAngle": "60.000 °",
+    "TipDiameter": "0.000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "VG05A",
+    "Description": "Genmitsu V 60° groove [VG05A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/genmitsu-v-groove-router-bits-set",
+    "SourceGuid": "325ae125-ba34-4d06-a5ed-dceace3bb1dd",
+    "SourceType": "chamfer mill",
+    "Coating": "hss",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters",
+    "IncludedAngleDegrees": 60.0
+  }
+}

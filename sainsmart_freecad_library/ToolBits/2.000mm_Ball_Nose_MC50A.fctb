@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "id": "2.000mm_Ball_Nose_MC50A",
+  "name": "2.000mm Ball Nose [MC50A]",
+  "shape": "ballend.fcstd",
+  "shape-type": "Ballend",
+  "parameter": {
+    "Diameter": "2.000 mm",
+    "CuttingEdgeHeight": "8.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 2,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0333 mm",
+    "Radius": "1.000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC50A",
+    "Description": "Genmitsu ball nose [MC50A], Titanium Coat",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc50a-1-8-shank-tungsten-carbide-end-mill-router-bits-50-pcs",
+    "SourceGuid": "20b66c57-ba59-4119-af8e-8f5c586c7d9c",
+    "SourceType": "ball end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

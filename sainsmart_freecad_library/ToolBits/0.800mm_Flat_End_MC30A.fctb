@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "0.800mm_Flat_End_MC30A",
+  "name": "0.800mm Flat End [MC30A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "0.800 mm",
+    "CuttingEdgeHeight": "8.000 mm",
+    "Length": "38.000 mm",
+    "ShankDiameter": "3.175 mm",
+    "Flutes": 4,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0111 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "MC30A",
+    "Description": "Genmitsu flat end corncob [MC30A]",
+    "ProductLink": "https://www.sainsmart.com/collections/genmitsu-cnc-router-bits-end-mills/products/mc30a-1-8-shank-carbide-milling-cutter-bit-set-30-pcs",
+    "SourceGuid": "4919ca1b-2d12-415a-b114-ba34df585ecd",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}

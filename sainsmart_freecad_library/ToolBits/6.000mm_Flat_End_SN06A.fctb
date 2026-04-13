@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "id": "6.000mm_Flat_End_SN06A",
+  "name": "6.000mm Flat End [SN06A]",
+  "shape": "endmill.fcstd",
+  "shape-type": "Endmill",
+  "parameter": {
+    "Diameter": "6.000 mm",
+    "CuttingEdgeHeight": "20.000 mm",
+    "Length": "50.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "Flutes": 3,
+    "Material": "Carbide",
+    "SpindleDirection": "Forward",
+    "Chipload": "0.0000 mm"
+  },
+  "attribute": {
+    "Vendor": "SainSmart Genmitsu",
+    "ProductId": "SN06A",
+    "Description": "Genmitsu flat end [SN06A], Nano Blue Coat",
+    "ProductLink": "https://www.sainsmart.com/products/genmitsu-3-flute-square-end-mill-for-aluminum-applications-6-pack-1-4-shank-sn06a",
+    "SourceGuid": "6d4b98b1-5c8b-431a-a4ac-eb58889135d2",
+    "SourceType": "flat end mill",
+    "Coating": "ti coated",
+    "ExactStockFreeCADShape": true,
+    "OriginalUnit": "millimeters"
+  }
+}
